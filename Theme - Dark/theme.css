@@ -1,0 +1,56 @@
+.qvt-sheet {
+  background: #293741 !important;
+}
+
+.qv-object * {
+  font-family: Arial;
+}
+
+.qva-chart-data-title * {
+  font-weight: bold
+}
+
+
+.cl-title {
+  font-weight: bold;
+}
+
+.qv-pt .cell .value {
+  background-color: #a6b2bc !important;
+}
+
+
+.qv-listbox-container {
+  background-color:  white;
+}
+
+.qv-chart-scrollable-horizontal {
+  background-color: #a6b2bc !important;
+}
+
+
+.qv-collapsed-listbox {
+  border: solid 1px #a6b2bc;
+}
+
+
+.qv-collapsed-listbox .title-wrapper  {
+  background-color: #3A4853 !important;
+}
+
+.qv-collapsed-listbox .title-wrapper .title {
+  color: #a6b2bc !important;
+}
+
+.qv-listbox li.serverOptional {
+  background-color: white;
+  color: #595959;
+}
+
+.qv-state-count-bar .state.alternative {
+  background-color: white;
+}
+
+.qv-state-count-bar .state.alternative {
+  color: white;
+}
